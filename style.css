@@ -111,9 +111,16 @@ a {
     height: 500px;    
 }
 
+.main-div1-wrapper {
+    display: flex;
+    flex-direction: column;
+    
+}
+
 .header {
     display: flex;
-    justify-content: center;
+    flex: 1;
+    justify-content: space-between;
     align-items: center;
     padding: 20px; 
     margin-bottom: 40px;     
@@ -123,7 +130,7 @@ a {
     font-weight: bold;
     font-size: 24px;
     color: #F9FAF8;
-    margin-right: auto;
+    
 }
 
 .flex-container {
