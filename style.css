@@ -121,7 +121,9 @@ a {
     background-color: #e5e7eb; 
     height: 400px;  
 }
-
+.sub-div3 {
+    margin: auto;
+}
 .quote {
     font-size: 36px;
     font-weight: lighter;
@@ -133,9 +135,9 @@ a {
 
 .author {
     font-weight: bolder;
-    font-size: 22px;
+    font-size: 24px;
     text-align: right;
-    margin-right: 200px;    
+        
 }
 
 .main-div4 { 
